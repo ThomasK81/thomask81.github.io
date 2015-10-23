@@ -5,3 +5,6 @@
 # Windows and Mac OS X
 Thumbs.db
 .DS_Store
+
+#Jekyll
+_site/
